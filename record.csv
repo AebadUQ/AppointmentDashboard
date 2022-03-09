@@ -1,0 +1,4 @@
+"rec_id";"custcar";"custdate";"custnum";"status";"servicesStr";"serCashStr";"servicesStr2";"serCashStr2";"servicesStr3";"serCashStr3";"totalCash"
+1;"abc-123";"2022-03-09";"34314321431";"Appointment";"Engine bonnet repair,Boot lid replacement";"5000,3000";"Engine main repair";"1000";"Computer diagnostics";"2100";"11100"
+2;"xyz-232";"2022-03-10";"23142314312";"Appointment";"Engine bonnet repair,Boot lid replacement";"5000,3000";"Brake fluid replacement,Coolant replacement";"2000,3000";"Air conditioning inspection";"3000";"16000"
+3;"yxs-982";"2022-03-10";"03313168890";"Walkin";"Engine bonnet repair,Boot lid replacement,Whole car body painting";"5000,3000,2000";"Brake fluid replacement,Coolant replacement,Suspension repair";"2000,3000,4000";"Computer diagnostics,Extended vehicle inspection";"2100,11000";"32100"
